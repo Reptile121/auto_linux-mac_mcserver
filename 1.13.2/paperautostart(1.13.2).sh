@@ -12,5 +12,7 @@ mv eula.txt eulab.txt
 
 mv eula1.txt eula.txt
 
+rm eulab.txt 
+
 echo Run ./start.sh now
 
