@@ -7,6 +7,8 @@ Make a MC Server automaticly on Linux and MacOS!
 Required Packages:
 1. git
 2. openjdk-8-jre
-3. sudo (it is probly installed by default)
-4. Aaaaannnnndd make sure your shell is bash! (Its is most likely set already)
-5. Have fun!!!
+3. openjdk-8-jdk
+^(Will be installed if not already :])
+4. sudo (it is probly installed by default)
+5. Aaaaannnnndd make sure your shell is bash! (Its is most likely set already)
+6. Have fun!!!
